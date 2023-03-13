@@ -9,7 +9,7 @@ The use of a software in ATM machine creates ease and a comfort in money transac
 
 After the implementation of project in bank, the numbers of daily costumers visiting the bank for withdrawing money is effectively reduced. As a result of this, the working load in the bank is obviously reduced and the numbers of account staffs in bank office can be decreased. Thus, the project carries an economical balance in financial activities of bank.
 
-# Features:
+# Features
 - Check Balance
 - Deposit Money
 - Withdraw Money
